@@ -1,0 +1,3 @@
+- Create an virual environment install file, i.e., requirements.txt
+- Update isolate mesh to read in csv rather than pkl to make it repo safe...
+- Pull full field simulation analysis into this workflow.
